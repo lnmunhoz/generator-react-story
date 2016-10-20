@@ -1,38 +1,37 @@
-# generator-react-storybook [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Generate stories for you
+# generator-react-story [![npm version](https://badge.fury.io/js/generator-react-story.svg)](https://badge.fury.io/js/generator-react-story)
+Generate stories for your [storybook](https://github.com/kadirahq/react-storybook).
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-react-storybook using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-react-story using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-react-storybook
+npm install -g generator-react-story
 ```
 
-Then generate your new project:
+Then navigate to your component or stories folder and generate your new story:
 
 ```bash
-yo react-storybook
+yo react-story
 ```
 
-## Getting To Know Yeoman
+## Available decorators options:
+- [@kadira/react-storybook-decorator-centered](https://github.com/kadirahq/react-storybook-decorator-centered)
 
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
+## Contributing
+PR's are welcome!
 
 ## License
 
-MIT © [lnmunhoz](lucasmunhoz.com)
+MIT © [lnmunhoz](http://lucasmunhoz.com)
 
 
-[npm-image]: https://badge.fury.io/js/generator-react-storybook.svg
-[npm-url]: https://npmjs.org/package/generator-react-storybook
-[travis-image]: https://travis-ci.org/lnmunhoz/generator-react-storybook.svg?branch=master
-[travis-url]: https://travis-ci.org/lnmunhoz/generator-react-storybook
-[daviddm-image]: https://david-dm.org/lnmunhoz/generator-react-storybook.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/lnmunhoz/generator-react-storybook
-[coveralls-image]: https://coveralls.io/repos/lnmunhoz/generator-react-storybook/badge.svg
-[coveralls-url]: https://coveralls.io/r/lnmunhoz/generator-react-storybook
+<!-- [npm-image]: https://badge.fury.io/js/generator-react-storybook.svg -->
+<!-- [npm-url]: https://npmjs.org/package/generator-react-story -->
+<!-- [travis-image]: https://travis-ci.org/lnmunhoz/generator-react-storybook.svg?branch=master -->
+<!-- [travis-url]: https://travis-ci.org/lnmunhoz/generator-react-storybook -->
+<!-- [daviddm-image]: https://david-dm.org/lnmunhoz/generator-react-storybook.svg?theme=shields.io -->
+<!-- [daviddm-url]: https://david-dm.org/lnmunhoz/generator-react-storybook -->
+<!-- [coveralls-image]: https://coveralls.io/repos/lnmunhoz/generator-react-storybook/badge.svg -->
+<!-- [coveralls-url]: https://coveralls.io/r/lnmunhoz/generator-react-storybook -->
