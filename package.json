@@ -1,6 +1,6 @@
 {
   "name": "generator-react-story",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate stories for your storybook",
   "homepage": "",
   "author": "Lucas Munhoz  <ln.munhoz@gmail.com> (http://lucasmunhoz.com)",
