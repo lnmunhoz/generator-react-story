@@ -1,6 +1,6 @@
 import React from 'react';
 import { storiesOf } from '@kadira/storybook';
-<% if (centered){ %>import centered from '@kadira/react-storybook-decorator-centered'; <% } %>
+<% if (centered){ %>import centered from '@kadira/react-storybook-decorator-centered';<% } %>
 
 import <%= Component %> from './index';
 
