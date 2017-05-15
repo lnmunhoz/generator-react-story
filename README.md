@@ -1,5 +1,5 @@
 # generator-react-story [![npm version](https://badge.fury.io/js/generator-react-story.svg)](https://badge.fury.io/js/generator-react-story) ![npm-downloads](https://img.shields.io/npm/dm/generator-react-story.svg)
-Generate stories for your [storybook](https://github.com/kadirahq/react-storybook).
+Generate stories for your [storybook](https://github.com/storybooks/storybook).
 
 ## Installation
 
